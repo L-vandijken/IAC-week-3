@@ -1,6 +1,6 @@
 # <IAC week 3>
 
-Korte beschrijving (1–2 zinnen) van wat dit project doet en voor wie het bedoeld is.
+In deze repo worden de opdrachten van IAC-week3 gemaakt
 
 ## Inhoudsopgave
 - Installatie
