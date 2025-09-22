@@ -1,0 +1,20 @@
+body:
+  - type: textarea
+    id: beschrijving
+    attributes:
+      label: Beschrijving
+      placeholder: Wat ging er mis?
+    validations:
+      required: true
+  - type: textarea
+    id: stappen
+    attributes:
+      label: Stappen om te reproduceren
+      value: |
+        1.
+        2.
+        3.
+  - type: input
+    id: versie
+    attributes:
+      label: Versie / commit SHA
