@@ -1,1 +1,5 @@
+- run: npx prettier --check .
+- uses: ibiqlik/action-yamllint@v3
+  with:
+    config_file: ./.yamllint
 
