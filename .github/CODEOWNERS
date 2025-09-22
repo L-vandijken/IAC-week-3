@@ -1,7 +1,7 @@
-# Eigenaar voor alles
-*           @org/team-backend
+# Eigenaar voor alles (test)
+*           L-vanDijken
 
-# Specifieke paden
-/docs/      @org/tech-writers
-/frontend/  @gebruikersnaam
-infra/**    @org/devops-team
+# Specifieke paden voorbeeld
+# /docs/      @org/tech-writers
+# /frontend/  @gebruikersnaam
+# infra/**    @org/devops-team
